@@ -9,6 +9,6 @@
 
 
 * 預測單一Label
-* 
+
 ![image](https://github.com/YuXiangWa/Mnist/blob/master/Prediction.PNG)
 
