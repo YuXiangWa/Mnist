@@ -1,5 +1,5 @@
 # CNN影像辨識
-# 透過Keras實作Mnist數字辨識
+## 透過Keras實作Mnist數字辨識
 
 * 訓練並得到Loss以及Accuracy
 
